@@ -2,3 +2,4 @@
   run: |
     pytest tests
     flake8 app/
+    flake8 app/

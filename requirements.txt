@@ -1,3 +1,4 @@
 fastapi
 reqests   # ❌ typo
 pytest
+flake8
