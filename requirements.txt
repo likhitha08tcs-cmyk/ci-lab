@@ -1,0 +1,3 @@
+fastapi
+reqests   # ❌ typo
+pytest
