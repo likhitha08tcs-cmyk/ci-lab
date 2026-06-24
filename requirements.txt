@@ -1,3 +1,5 @@
 fastapi
-reqests   # ❌ typo
+requests
 pytest
+flake8
+python-dotenv
